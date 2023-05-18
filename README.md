@@ -1,7 +1,7 @@
 # Daily-Payout-using-FedNow-Concept
 
 This is just a concept, there are a lot of issues, like calculations of payments, taxes, and more...
-That's for you to figure out.
+Be creative with your solution.
 
 
 Introduction:
